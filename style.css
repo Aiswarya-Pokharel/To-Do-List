@@ -8,15 +8,18 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   width: 100vw;
   min-height: 100vh;
-  background-image: url(images/pic.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   justify-content: center;
   text-align: center;
   display: inline;
 }
-
+.container{
+  background-image: url(images/pic.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
 body::-webkit-scrollbar {
   display: none;
 }
