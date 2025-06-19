@@ -11,21 +11,11 @@ body {
   text-align: center;
   display: inline;
 }
-<<<<<<< HEAD
 
 .container {
   background-color: #fff;
   height: 100vh;
   overflow: scroll;
-=======
-.container{
-  background: linear-gradient(135deg,#ce9affaa,#95bfffd3);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
- height: 100vh;
- overflow: scroll;
->>>>>>> 421b8db676dc2a0ddc1272cf78b354d2e5b1db2f
 }
 
 .container::-webkit-scrollbar {
@@ -39,11 +29,7 @@ body {
   margin: 80px auto;
   border-radius: 10px;
   padding: 1.5vw 4.5vw;
-<<<<<<< HEAD
   background-color: rgb(101, 142, 183);
-=======
-  background-color: rgba(170, 170, 170, 0.2);
->>>>>>> 421b8db676dc2a0ddc1272cf78b354d2e5b1db2f
   overflow: scroll;
   margin-bottom: 8px;
 
@@ -100,15 +86,9 @@ button {
   outline: none;
   padding: 10px 22px;
   color: #fff;
-<<<<<<< HEAD
 
   background: linear-gradient(135deg, #2e7d32, #66bb6a);
   font-size: 20px;
-=======
-  background: slategrey;
-  cursor: pointer;
-  font-size: 30px;
->>>>>>> 421b8db676dc2a0ddc1272cf78b354d2e5b1db2f
   border-radius: 40px;
 }
 
